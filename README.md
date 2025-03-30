@@ -1,8 +1,9 @@
-  <h1 align="center"><b>Hi there! I´m Anna Carolina</b></h1>
+  <h1 align="center"><b>Hey there! I´m Anna Carolina</b></h1>
 
   <p align="center">
   <img align="height="300" width="400" src="https://github.com/anna-garcia/anna-garcia/blob/main/coffee_rainy_paiting.gif"/>
   </p>
+  
   <p align="center">
     Born to be a goth, forced to be a bioinformatician.
   </p>
